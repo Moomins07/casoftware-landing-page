@@ -12,6 +12,9 @@ module.exports = {
       backgroundImage: {
         "bg-wallpaper": "url('/Images/gradient-blue.jpg')",
         "casoftware-logo": "url('/Images/casoftware-fit.svg')",
+        azuresvg: "url('/Images/azure.svg')",
+        awssvg: "url('/Images/aws.svg')",
+        mauisvg: "url('/Images/dotnetmaui.svg')",
       },
       colors: {
         softBlue: "hsl(231, 69%, 60%)",
